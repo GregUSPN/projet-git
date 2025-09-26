@@ -1,2 +1,2 @@
-- Finir le programme python
-- Finir la video de sensibilisation
+- Terminer le projet git
+- Préparer la présentation
